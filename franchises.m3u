@@ -1,0 +1,565 @@
+#EXTM3U refresh="86400"
+#EXTINF:-1 group-title="franchises"
+
+#EXTINF:-1 group-title="Пірати Карибського Моря" tvg-logo="https://image.tmdb.org/t/p/original/eirEvGIIrPTgLNNnhahkUzUiKsY.jpg", Пірати Карибського Моря: Прокляття чорної перлини
+https://ashdi.vip/video2/2/films/pirates_of_the_caribbean__the_curse_of_the_black_pearl_2003_webdl_1080p_open_matte_3xukr_eng_hurtom_129397/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пірати Карибського Моря" tvg-logo="https://i.kinobaza.com.ua/w2000/656967689f649.jpg", Пірати Карибського Моря: Скриня мерця
+https://ashdi.vip/video2/1/new/pirates_of_the_caribbean__dead_mans_chest_2006_bdremux_1080p_178062/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пірати Карибського Моря" tvg-logo="https://image.tmdb.org/t/p/original/cNMig1kY8Lk9HXEhLtGI97deTnq.jpg", Пірати Карибського Моря: На краю світу
+https://ashdi.vip/video2/2/films/3._pirates_of_the_caribbean._at_worlds_end_2007_bdrip_1080p_h.265_ukr_eng_309/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пірати Карибського Моря" tvg-logo="https://i.kinobaza.com.ua/w2000/656967408acff.jpg", Пірати Карибського Моря: На дивних берегах
+https://ashdi.vip/video2/2/films/4._pirates_of_the_caribbean._on_stranger_tides_2011_bdrip_1080p_h.265_ukr_eng_310/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пірати Карибського Моря" tvg-logo="https://i.kinobaza.com.ua/w2000/65695b0cbb5fc.jpg", Пірати Карибського моря: Помста Салазара
+https://ashdi.vip/video2/2/films/5._pirates_of_the_caribbean_dead_men_tell_no_tales_2017_bdrip_1080p_h.265_ukr_eng_311/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Таксі" tvg-logo="https://images.kinorium.com/movie/poster/129899/w1500_53754186.jpg", Таксі
+https://ashdi.vip/video2/2/films/taks_535/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Таксі" tvg-logo="https://images.kinorium.com/movie/poster/152268/w1500_53754176.jpg", Таксі 2 
+https://ashdi.vip/video2/2/films/taks_2_537/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Таксі" tvg-logo="https://images.kinorium.com/movie/poster/236033/w1500_53754091.jpg",  Таксі 3
+https://ashdi.vip/video2/2/films/taks_3_538/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Таксі" tvg-logo="https://images.kinorium.com/movie/poster/381183/w1500_53754092.jpg", Таксі 4 
+https://ashdi.vip/video2/2/films/taks_4_539/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Таксі" tvg-logo="https://uakino.me/uploads/post/Taxi5/nnWrmizNe9klVwKI14xslqxUb8y.jpg", Таксі 5
+https://ashdi.vip/video2/2/films/taks_5_540/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/fy2BxOL7nwjnDB5JOm2xngjpj6z.jpg", Джеймс Бонд: Доктор Ноу
+https://ashdi.vip/video2/2/films/james_bond_dr._no_1962_bdremux_1080p_ukr_eng__sub_ukr_eng_hurtom_1444/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/yUj1hG51xRLnH8oiz2poc7VGmoW.jpg", Джеймс Бонд: З Росії з любов'ю
+https://ashdi.vip/video2/2/films/james_bond_from_russia_with_love_1963_bdremux_1080p_2xukreng__sub_ukreng_1443/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/1hSTrMfgTvcmSIslO94hM0GyUM2.jpg", Джеймс Бонд: Голдфінгер
+https://ashdi.vip/video2/1/films/goldfnger__bond_1513/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/iMf3u5IoE6akZXNSw1RIRt3UMO8.jpg", Джеймс Бонд: Кульова блискавка
+https://ashdi.vip/video2/1/films/bond_tanderboll_1521/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/9H942P5Wywek42HrWFi7HiB2jgu.jpg", Джеймс Бонд: Казино Рояль (1967)
+https://ashdi.vip/video2/1/films/kazino_royal_3410/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/hG31s70ndK2s7d22ONOq87VkZ6d.jpg", Джеймс Бонд: Живеш тільки двічі
+https://ashdi.vip/video2/1/films/bond_ti_zhivesh_lishe_dvch_1519/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/4vZue58IpJPNzFvUiarC577E8R3.jpg", Джеймс Бонд: На секретній службі її величності 
+https://ashdi.vip/video2/1/films/na_sluzhb__velichnost_1514/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/rzElTE7UAu3wvFGX8IhUtLAsQBd.jpg", Джеймс Бонд: Діаманти залишаються назавжди
+https://ashdi.vip/video2/1/films/bond__damanti_1662/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/49KhaaK2VwtJxmo23BfmJaN35Hv.jpg", Джеймс Бонд: Живи і дай померти
+https://ashdi.vip/video2/1/films/zhivi__daj_pomerti_2700/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/wTzAd3uTtzE29azgznxsUFMM4L3.jpg", Джеймс Бонд: Людина із золотим пістолетом
+https://ashdi.vip/video2/1/films/lyudina_z_zolotim_pstoletom_2703/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/2fLNXoP86WeDeoq1eORVHSRKJw8.jpg", Джеймс Бонд: Шпигун, який мене кохав
+https://ashdi.vip/video2/1/films/shpigun_yakij_mene_lyubiv_2611/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/9yULIGQTvLUlFogf8QbjjZKmG3Q.jpg", Джеймс Бонд: Місячний гонщик
+https://ashdi.vip/video2/1/films/msyachnij_gonshhik_2579/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/kpG1Rhhsh3BYrugNQv9U7enPXHj.jpg", Джеймс Бонд: Тільки для ваших очей
+https://ashdi.vip/video2/1/films/tlki_dlya_tvox_ochej_bond_2610/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/hNyL5c95Qa0tIFa9rSW8EtiILqT.jpg", Джеймс Бонд: Восьминіжка
+https://ashdi.vip/video2/1/films/vosminzhka_2701/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/aGBqbUUYPZnhtJx3ejiUbGhRFfF.jpg", Джеймс Бонд: Ніколи не говори ніколи
+https://ashdi.vip/video2/1/films/nkoli_ne_kazhi_nkoli_bond_3307/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/ygQu1BXGJUTcAJgOT9k4osAAHwq.jpg", Джеймс Бонд 007: Вид на вбивство
+https://ashdi.vip/video2/1/films/nkoli_ne_kazhi_nkoli_bond_3307/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/88LNNTjEwCaYLQVn5DjoZwKusgD.jpg", Джеймс Бонд 007: Іскри з очей
+https://ashdi.vip/video2/1/films/zhiv_vogniki_2801/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/5em4LxuY6HsmuiGOHYxdJU9UPos.jpg", Джеймс Бонд 007: Ліцензія на вбивство
+https://ashdi.vip/video2/1/films/lczenzya_na_vbivstvo_2668/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/1JLz6pp0LP32KoOLbGdtixseQoh.jpg", Джеймс Бонд 007: Золоте око
+https://ashdi.vip/video2/1/films/zolote_oko_2636/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/gxB7TG6ETJsDw7UfmoQntSX1CkC.jpg", Джеймс Бонд 007: Завтра не помре ніколи 
+https://ashdi.vip/video2/1/films/zavtra_ne_pomre_nkoli_2535/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/x5ibKJHa1uSevZkapx7nQ3ubb3c.jpg", Джеймс Бонд 007: І цілого світу замало
+https://ashdi.vip/video2/1/films/_czlogo_svtu_zamalo_2536/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/n21jfdsOQDNZiolYBAB0RTMyEuK.jpg", Джеймс Бонд 007: Помри, але не зараз
+https://ashdi.vip/video2/1/films/pomri_ale_ne_sogodn_2537/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/pHgQbCwwWs9dkks0fu5LWGUjdl9.jpg", Джеймс Бонд 007: Казино Рояль (2006)
+https://ashdi.vip/video2/2/films/kazino_royal_2578/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/5t67rjH3GdVLxNby3F6Vk9LVTY5.jpg", Джеймс Бонд 007: Квант Милосердя
+https://ashdi.vip/video2/1/films/kvant_miloserdya_2533/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://image.tmdb.org/t/p/original/kqfS5CmcXtEWgdZxgNjtvSDYwca.jpg", Джеймс Бонд 007: Координати "Скайфолл"
+https://ashdi.vip/video2/1/films/skajfol_2534/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://i.kinobaza.com.ua/w2000/624dd47148504.jpg", Джеймс Бонд 007: Спектр
+https://ashdi.vip/video2/1/films/007_spektr_2223/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джеймс Бонд 007" tvg-logo="https://i.kinobaza.com.ua/w2000/63faa66598a2c.jpg", Джеймс Бонд 007: Не час помирати
+https://ashdi.vip/video2/2/films/no_time_to_die_2021_ukreng_sub.eng_webdl_1080p_hurtom_49910/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Джейсон Борн" tvg-logo="https://i.kinobaza.com.ua/w2000/656969f20127e.jpg", Ідентифікація Борна
+https://ashdi.vip/video2/1/films/dentifkaczya_borna_2850/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джейсон Борн" tvg-logo="https://i.kinobaza.com.ua/w2000/656969fd04076.jpg", Перевага Борна
+https://ashdi.vip/video2/1/films/perevaga_borna_2852/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джейсон Борн" tvg-logo="https://i.kinobaza.com.ua/w2000/65696a00ab5fd.jpg", Ультиматум Борна
+https://ashdi.vip/video2/1/films/ultimatum_borna_2851/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джейсон Борн" tvg-logo="https://i.kinobaza.com.ua/w2000/656960cb0cd4c.jpg", Джейсон Борн
+https://ashdi.vip/video2/1/films/dzhejson_born_2016_2827/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Джейсон Борн" tvg-logo="https://image.tmdb.org/t/p/original/mYNoUS0zq9p6Z5xVbACjNdAG7Sc.jpg", Спадок Борна
+https://ashdi.vip/video2/1/new4/born_3759/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Інший світ" tvg-logo="https://image.tmdb.org/t/p/original/uNj6P0fIibnl2SWn2tge17u35x2.jpg", Інший світ
+https://ashdi.vip/video2/1/new4/1._underworld_directors_cut_2003_bdrip_1080p_h.265_ukr_eng_6512/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Інший світ" tvg-logo="https://image.tmdb.org/t/p/original/xakJybUoqZ0fYLJc3TXMXKw7AJz.jpg", Інший світ 2: Еволюція
+https://ashdi.vip/video2/1/new4/2._underworld_2._evolution_2006_bdrip_1080p_h.265_ukr_eng_6513/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Інший світ" tvg-logo="https://image.tmdb.org/t/p/original/p9cJBAHQfWN5tdMBV4nPLuMtWTN.jpg", Інший світ 3: Повстання ліканів
+https://ashdi.vip/video2/1/new4/3._underworld_3._rise_of_the_lycans_2009_bdrip_1080p_h.265_ukr_eng_6514/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Інший світ" tvg-logo="https://i.kinobaza.com.ua/w2000/65695f036e627.jpg",  Інший світ 4: Пробудження
+https://ashdi.vip/video2/1/new4/4._underworld_4._awakening_2012_bdrip_1080p_h.265_ukr_eng_6515/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Інший світ" tvg-logo="https://i.kinobaza.com.ua/w2000/642447611c173.jpg", Інший світ 5: Кровна помста
+https://ashdi.vip/video2/1/new4/5._underworld_5._blood_wars_2016_bdrip_1080p_h.265_ukr_eng_6516/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/6569578c53158.jpg", Оселя зла
+https://ashdi.vip/video2/1/films/resident_evil_2002_bdrip_1080p_2xuaenghurtom_2427/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/6569578ece3e4.jpg", Оселя зла 2: Апокалiпсис
+https://ashdi.vip/video2/1/films/resident_evil_apocalypse_2004_bdrip_1080p_ukr_eng_hurtom_2429/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/656951d15d80a.jpg", Оселя зла 3: Вимирання
+https://ashdi.vip/video2/1/films/resident_evil_extinction_2007_bdrip_1080p_ukr_eng_hurtom_2430/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d6e180a6.jpg", Оселя зла 4: Потойбічне життя
+https://ashdi.vip/video2/1/films/resident_evil_afterlife_2010_bdrip_1080p_ukr_eng_hurtom_2428/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d7152392.jpg", Оселя зла 5: Відплата
+https://ashdi.vip/video2/1/films/resident_evil_retribution_2012_bdrip_1080p_ukr_eng_hurtom_2431/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Оселя зла" tvg-logo="https://i.kinobaza.com.ua/w2000/656959f9f3201.jpg", Оселя зла 6: Фінальна битва
+https://ashdi.vip/video2/1/films/resident_evil_the_final_chapter_2016_bdrip_1080p_ukr_eng_hurtom_2432/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Назад у майбутнє" tvg-logo="https://uakino.me/uploads/posts/2019-11/1573076140-1.jpg", Назад у майбутнє
+https://ashdi.vip/video2/2/films/1._back_to_the_future_1985_bdrip_1080p_h.265_5xukr_eng_hurtom_289/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Назад у майбутнє" tvg-logo="https://uakino.me/uploads/posts/2019-11/1573076582-1.jpg", Назад у майбутнє 2
+https://ashdi.vip/video2/2/films/1._back_to_the_future_1985_bdrip_1080p_h.265_5xukr_eng_hurtom_289/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Назад у майбутнє" tvg-logo="https://uakino.me/uploads/posts/2019-11/1573077161-1.jpg", Назад у майбутнє 3
+https://ashdi.vip/video2/1/films/3._back_to_the_future_part_iii_1990_bdrip_1080p_h.265_5xukr_eng_hurtom_291/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/6569624583a8c.jpg", Пункт призначення
+https://ashdi.vip/video2/2/films/01_final_destination_2000_bdrip_1080p_h.265_ukr_eng_hurtom_98913/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/6569624b892ec.jpg", Пункт призначення 2
+https://ashdi.vip/video2/2/films/02_final_destination_2_2003_bdrip_1080p_h.265_2xukr_eng_hurtom_98914/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/65696250d0d41.jpg", Пункт призначення 3
+https://ashdi.vip/video2/1/films/03_final_destination_3_2006_bdrip_1080p_h.265_2xukr_eng_hurtom_98915/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/65696255d1102.jpg", Пункт призначення 4
+https://ashdi.vip/video2/1/films/04_the_final_destination_2009_bdrip_1080p_h.265_2xukr_eng_hurtom_98916/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://image.tmdb.org/t/p/original/ynm5Cy0dzeM4lzBmszfRCZMZlqe.jpg", Пункт призначення 5
+https://ashdi.vip/video2/1/films/05_final_destination_5_2011_bdrip_1080p_h.265_ukr_eng_hurtom_98917/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/67e2cc12c32d0.jpg", Пункт призначення 6
+
+
+#EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/656960d0df252.jpg", Веном
+https://ashdi.vip/video2/2/films/venom_513/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/63faa70975b26.jpg", Веном 2: Карнаж
+https://ashdi.vip/video2/2/films/venom_let_there_be_carnage_2021_webdl_1080p_ukr_eng_hurtom_50313/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/66e820d33eb06.jpg", Веном: Останній танець
+https://ashdi.vip/video2/2/new/venom.the.last.dance.2024.1080p.amzn.webdl.ddp5.1.h.264.ultra.multivenomrgb_154745/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Той, що біжить лабіринтом" tvg-logo="https://i.kinobaza.com.ua/w2000/65695708df11f.jpg", Той, що біжить лабіринтом
+https://ashdi.vip/video2/2/new4/1._the_maze_runner_2015_bdrip_1080p_h.265_ukr_eng_hurtom_6510/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Той, що біжить лабіринтом" tvg-logo="https://i.kinobaza.com.ua/w2000/65695b709b78f.jpg", Той, що біжить лабіринтом: Випробування вогнем
+https://ashdi.vip/video2/2/new4/2._the_maze_runner._the_scorch_trials_2015_bdrip_1080p_h.265_ukr_eng_hurtom_6511/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Той, що біжить лабіринтом" tvg-logo="https://i.kinobaza.com.ua/w2000/67d24fc1b0d02.jpg", Той, що біжить лабіринтом: Ліки від смерті
+https://ashdi.vip/video2/2/films/toj_shho_bzhit_labrintom_lki_vd_smert_17/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Дивергент" tvg-logo="https://images.kinorium.com/movie/poster/570301/w1500_51739630.jpg", Дивергент
+https://ashdi.vip/video2/2/films/divergent_2538/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Дивергент" tvg-logo="https://images.kinorium.com/movie/poster/703003/w1500_51677147.jpg", Дивергент, глава 2: Інсургент
+https://ashdi.vip/video2/2/films/nsurgent_2540/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Дивергент" tvg-logo="https://images.kinorium.com/movie/poster/753307/w1500_51676583.jpg", Дивергент. Глава 3: Віддана
+https://ashdi.vip/video2/2/films/divergent_3_2802/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Голодні ігри" tvg-logo="https://images.kinorium.com/movie/poster/477206/w1500_51894701.jpg", Голодні ігри
+https://ashdi.vip/video2/2/films/golodn_gri_1164/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голодні ігри" tvg-logo="https://images.kinorium.com/movie/poster/587682/w1500_37562471.jpg", Голодні ігри: У вогні
+https://ashdi.vip/video2/2/films/golodn_gri_u_vogn_1165/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голодні ігри" tvg-logo="https://images.kinorium.com/movie/poster/587683/w1500_51814526.jpg", Голоднi iгри: Переспiвниця. Частина 1
+https://ashdi.vip/video2/2/films/3._the_hunger_games_mockingjay__part_1_2014_bdrip_1080p_h.265_2xukr_eng_hurtom_57339/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голодні ігри" tvg-logo="https://images.kinorium.com/movie/poster/587684/w1500_51491123.jpg", Голодні ігри: Переспівниця. Частина 2 
+https://ashdi.vip/video2/2/films/golodni_igri_perespivniczya_ch2_1167/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голодні ігри" tvg-logo="https://images.kinorium.com/movie/poster/2084007/w1500_52104802.jpg", Голодні ігри: Балада про співочих пташок і змій 
+https://ashdi.vip/video2/2/serials/the.hunger.games.the.ballad.of.songbirds.snakes.2023.webdl.1080p.ukr.eng.hurtom_113612/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Праведник" tvg-logo="https://images.kinorium.com/movie/poster/344550/w1500_50915509.jpg", Праведник
+https://ashdi.vip/video2/2/new4/1._the_equalizer_2014_bdrip_1080p_h.265_ukr_eng_6682/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Праведник" tvg-logo="https://images.kinorium.com/movie/poster/775661/w1500_51440088.jpg", Праведник 2
+https://ashdi.vip/video2/1/new4/2._the_equalizer_2_2018_bdrip_1080p_h.265_ukr_eng_6683/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Праведник" tvg-logo="https://images.kinorium.com/movie/poster/8763130/w1500_51911665.jpg", Праведник 3: Остання глава
+ https://ashdi.vip/video2/2/serials/the.equalizer.3.2023.1080p.webdl.ddp5.1.x264ukrengtoloka_107573/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Індіана Джонс" tvg-logo="https://ru.kinorium.com/76497/gallery/poster/?photo=52888156", Індіана Джонс: У пошуках втраченого ковчега
+https://ashdi.vip/video2/2/films/ndana_dzhons._u_poshukax_vtrachenogo_kovchega_1189/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Індіана Джонс" tvg-logo="https://images.kinorium.com/movie/poster/80446/w1500_3183312.jpg", Індіана Джонс і Храм Долі 
+https://ashdi.vip/video2/2/films/ndana_dzhons__xram_dol_1190/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Індіана Джонс" tvg-logo="https://images.kinorium.com/movie/poster/89316/w1500_51809011.jpg", Індіана Джонс і Останній Хрестовий Похід 
+https://ashdi.vip/video2/2/films/ndana_dzhons__ostannj_xrestovij_poxd_1191/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Індіана Джонс" tvg-logo="https://images.kinorium.com/movie/poster/287600/w1500_3478327.jpg", Індіана Джонс та королівство кришталевого черепа
+https://ashdi.vip/video2/2/films/ndana_dzhons__korolvstvo_krishtalevogo_cherepa_1319/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Індіана Джонс" tvg-logo="https://images.kinorium.com/movie/poster/491020/w1500_51830747.jpg", Індіана Джонс і реліквія долі
+https://ashdi.vip/video2/1/films/indiana_jones_and_the_dial_of_destiny_2023_webdl_1080p_ukr_eng_hurtom_100767/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Планета мавп" tvg-logo="https://uakino.me/uploads/posts/2022-07/1657276266_coverd876cebae47713b5_md.jpg", Планета мавп
+https://ashdi.vip/video2/1/films/planet_of_the_apes_2001_bdrip_1080p_h.265_ukr_eng_hurtom_113360/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Планета мавп" tvg-logo="https://uakino.me/uploads/posts/2022-07/1657276236_coverd38ea7be308b0964_md.jpg", Повстання планети мавп
+https://ashdi.vip/video2/2/films/povstannya_planeti_mavp_1422/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Планета мавп" tvg-logo="https://images.kinorium.com/movie/poster/614456/w1500_3548422.jpg", Світанок планети мавп
+https://ashdi.vip/video2/2/films/svtanok_planeti_mavp_1374/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Планета мавп" tvg-logo="https://uakino.me/uploads/posts/2022-07/1657276354_cover515f9bc496b4d031_md.png", Війна за планету мавп
+https://ashdi.vip/video2/2/films/vjna_za_planetu_mavp_1324/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Планета мавп" tvg-logo="https://images.kinorium.com/movie/poster/2328273/w1500_52473898.jpg", Королівство планети мавп
+https://ashdi.vip/video2/2/films/kingdom_of_the_planet_of_the_apes_2024_webdl_1080p_ukr_eng_hurtom_133403/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Кінг Конг" tvg-logo="https://images.kinorium.com/movie/poster/69262/w1500_3562906.jpg", Кінг Конг 
+https://ashdi.vip/video2/1/new/king_kong_1976_bdrip_1080p_h.265_2xukr_eng_hurtom_84119/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Кінг Конг" tvg-logo="https://images.kinorium.com/movie/cover/83861/w1500_50927739.jpg", Кінг Конг живий
+https://ashdi.vip/video2/1/films/king_kong_lives_1986_bdrip_1080p_h.265_3xukr_eng_hurtom_104798/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Кінг Конг" tvg-logo="https://images.kinorium.com/movie/poster/282630/w1500_51808980.jpg", Кінг Конг 2005
+https://ashdi.vip/video2/1/new4/kng_kong__king_kong.2005.webdl.1080p.theatrical_cut.open_matte.ukr_eng_5707/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Кінг Конг" tvg-logo="https://images.kinorium.com/movie/poster/1442890/w1500_51542021.jpg", Конг: Острів черепа
+https://ashdi.vip/video2/2/new3/kong_skull_island_2017_bdrip_1080p_ukr_eng_hurtom_13797/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/97782/w1500_52138433.jpg", Парк Юрського періоду
+https://ashdi.vip/video2/2/films/1_jurassic_park_1993_bdrip_1080p_3xukr_eng_sub_eng_417/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/108304/w1500_52138327.jpg", Парк Юрського періоду 2. Загублений світ
+https://ashdi.vip/video2/2/films/2_the_lost_world._jurassic_park_1997_bdrip_1080p_3xukr_eng_sub_eng_418/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/136869/w1500_52526818.jpg", Парк Юрського періоду 3
+https://ashdi.vip/video2/2/films/3_jurassic_park_iii_2001_bdrip_1080p_3xukr_eng_sub_eng_419/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/288832/w1500_51796000.jpg", Світ Юрського періоду
+https://ashdi.vip/video2/2/films/svt_yurskogo_perodu_1_497/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://uakino.me/uploads/posts/2018-06/1528553753_1.jpg", Світ Юрського періоду 2
+https://ashdi.vip/video2/2/films/svt_yurskogo_perodu_496/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://uakino.me/uploads/posts/2022-06/165511340477_jurassic_world_dominion.jpg", Світ Юрського періоду 3: Домініон
+https://ashdi.vip/video2/2/films/jurassic_world_dominion_2022_bdremux_1080p_ukr_eng_hurtom_72675/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Володар перснів" tvg-logo="https://images.kinorium.com/movie/poster/109309/w1500_51572003.jpg", Володар перснів: Хранителі персня
+https://ashdi.vip/video2/2/films/1._the_fellowship_of_the_ring_extended_edition_2001_bdrmx1080p_42903/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Володар перснів" tvg-logo="https://images.kinorium.com/movie/poster/139946/w1500_51622153.jpg", Володар перснів: Дві вежі
+https://ashdi.vip/video2/2/films/2._the_two_towers_extended_edition_2002_bdrmx1080p_42904/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Володар перснів" tvg-logo="https://images.kinorium.com/movie/poster/139945/w1500_53564882.jpg", Володар перснів: Повернення короля 
+https://ashdi.vip/video2/2/films/3._the_return_of_the_king_extended_edition_2003_bdrmx1080p_42905/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Хоббіт" tvg-logo="https://images.kinorium.com/movie/poster/400768/w1500_3499006.jpg", Хоббіт: Несподівана подорож
+https://ashdi.vip/video2/2/films/xobbt_neochkuvana_podorozh_589/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Хоббіт" tvg-logo="https://images.kinorium.com/movie/poster/437204/w1500_3507421.jpg", Хоббіт: Пустка Смоґа
+https://ashdi.vip/video2/2/films/xobbt_pustka_smoga_590/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Хоббіт" tvg-logo="https://images.kinorium.com/movie/poster/648588/w1500_3097993.jpg", Хоббіт: Битва п'яти воїнств
+https://ashdi.vip/video2/2/films/xobbt_bitva_pyati_vonstv_591/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://uakino.me/uploads/posts/2024-08/pavukreimi.jpg", Людина-павук
+https://ashdi.vip/video2/2/films/01._spiderman_2002_uhdbdrip_1080p_h.265_2xukr_eng_hurtom_50998/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/250072/w1500_51672297.jpg", Людина-павук 2
+https://ashdi.vip/video2/1/films/spider_man_2_2004_bdremux_1080p_109158/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/316403/w1500_3482683.jpg", Людина-павук 3: Ворог у тіні
+https://ashdi.vip/video2/2/films/spiderman_3_2007_bdrip_1080p_h.265_2xukr_eng_403/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/406749/w1500_51169687.jpg", Нова Людина-Павук
+https://ashdi.vip/video2/2/films/spajder_men_2012_1639/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/576807/w1500_52121571.jpg", Нова Людина-Павук 2: Висока напруга
+https://ashdi.vip/video2/2/films/nova_lyudina_pavuk_2_1737/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/639254/w1500_45332324.jpg", Людина-павук: Повернення додому
+https://ashdi.vip/video2/2/films/lyudina_pavuk_povernennya_dodomu_554/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/1609068/w1500_36960892.jpg", Людина-павук: Далеко від дому 
+https://ashdi.vip/video2/2/films/lyudina_pavuk__daleko_vd_domu_583/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Людина-павук" tvg-logo="https://images.kinorium.com/movie/poster/2139329/w1500_52121593.jpg", Людина-павук: Додому шляху нема
+https://ashdi.vip/video2/2/films/spiderman__no_way_home_2021_bdremux_1080p_ukr_eng_hurtom_55588/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Сам удома" tvg-logo="https://uakino.me/uploads/posts/2025-05/egngoerpa.png", Сам удома
+https://ashdi.vip/video2/2/films/home_alone_1990_bdremux_1080p_114206/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Сам удома" tvg-logo="https://uakino.me/uploads/posts/2019-11/1572856723-1.jpg", Сам удома 2: Загублений у Нью-Йорку 
+https://ashdi.vip/video2/2/films/sam_udoma_2_244/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Сам удома" tvg-logo="https://images.kinorium.com/movie/poster/108070/w1500_54071692.jpg", Сам удома 3
+https://ashdi.vip/video2/2/films/sam_udoma_3_560/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Сам удома" tvg-logo="https://images.kinorium.com/movie/poster/259360/w1500_51169708.jpg", Сам удома 4
+https://ashdi.vip/video2/2/films/sam_udoma_4_716/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Сам удома" tvg-logo="https://images.kinorium.com/movie/poster/648151/w1500_51755854.jpg", Сам удома 5: Святкове пограбування
+https://ashdi.vip/video2/2/films/home_alone._the_holiday_heist_2012_amazon_webdl_1080p_ukr_eng_hurtom_51110/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/195927/w1500_53570382.jpg", Гаррі Поттер і філософський камінь
+https://ashdi.vip/video2/2/films/1.1._harry_potter_and_the_sorcerers_stone_theatrical_cut_2001_bdrip_1080p_4xukr_eng_hurtom_49666/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://uakino.me/uploads/posts/2017-12/1513613494_may31ephuk8vt0wk7wfi6ksuy3a.jpg", Гаррі Поттер і таємна кімната
+https://ashdi.vip/video2/2/films/harry_potter_and_the_chamber_of_secrets_2002_2xukr_eng_bdrip_1080p_hurtom_hdclub_by_leroykendall_14/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/cover/241359/w1500_37701609.jpg", Гаррі Поттер і в'язень Азкабану
+https://ashdi.vip/video2/2/films/harry_potter_and_the_prisoner_of_azkaban_2004_3xukr_eng_bdrip_1080p_hurtom_hdclub_by_leroykendall_9/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://uakino.me/uploads/posts/2021-11/1635852846_harry-potter-4.jpg", Гаррі Поттер і кубок вогню
+https://ashdi.vip/video2/2/films/harry_potter_and_the_goblet_of_fire_2005_2xukr_eng_bdrip_1080p_hurtom_hdclub_by_leroykendall_11/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/291850/w1500_3478748.jpg", Гаррі Поттер та Орден Фенікса
+https://ashdi.vip/video2/2/films/harry.potter.and.the.order.of.the.phoenixfentua_15/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/319243/w1500_50600480.jpg", Гаррі Поттер і напівкровний Принц
+https://ashdi.vip/video2/2/films/harry_potter_and_the_halfblood_prince_2009_2xukr_eng_bdrip_1080p_hurtom_by_leroykendall_10/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/403654/w1500_2895553.jpg", Гаррі Поттер та Смертельні Реліквії: Частина 1
+https://ashdi.vip/video2/2/films/harry_potter_and_the_deathly_hallows_part_1_2010_ukr_eng_bdrip_1080p_hurtom_13/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/442655/w1500_2943060.jpg", Гаррі Поттер та Смертельні Реліквії: Частина 2
+https://ashdi.vip/video2/2/films/harry_potter_and_the_deathly_hallows_part_2_2011_bdrip_1080p_ukreng_by_mtg_12/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Kingsman" tvg-logo="https://uakino.me/uploads/posts/2017-11/1509800076_dnfgfl3mbzmbmihtdaagwkua7j1.jpg", Kingsman: Таємна служба
+https://ashdi.vip/video2/2/films/kngsman_1_453/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Kingsman" tvg-logo="https://images.kinorium.com/movie/poster/1472179/w1500_50516228.jpg", Kingsman: Золоте Кільце
+https://ashdi.vip/video2/2/films/kngsman_2_452/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://images.kinorium.com/movie/poster/109444/w1500_2705666.jpg", Зоряні війни: Епізод I - Прихована загроза
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_1_420/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/atakakloniv.jpg", Зоряні війни: Епізод II - Атака клонів
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_2_422/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/pomstasytkhiv.jpg", Зоряні війни: Епізод III - Помста ситхів
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_3_423/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/novanadiia.jpg", Зоряні війни: Епізод IV - Нова надія
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_4_424/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/imperiiaatakuie.jpg",  Зоряні війни: Епізод V - Імперія завдає удару у відповідь
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_5_425/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/povernenniadzheda.jpg", Зоряні війни: Епізод VI - Повернення джедая
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_6_431/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/probudzhenniasyly.jpg", Зоряні війни: Епізод VII - Пробудження сили
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_7_427/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://uakino.me/uploads/posts/2024-08/ostanniidzhedai.jpg", Зоряні війни: Епізод VIII - Останні джедаї
+https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_8_428/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://images.kinorium.com/movie/poster/675913/w1500_51757970.jpg", Зоряні війни: Епізод IX - Скайвокер. Сходження
+https://ashdi.vip/video2/1/new3/star_wars_episode_ix__the_rise_of_skywalker_2019_bdrip_1080p_ukr_eng_video_hurtom_14200/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Крокодил Данді" tvg-logo="https://uakino.me/uploads/posts/2023-12/1702207152_55.jpg", Крокодил Данді
+https://ashdi.vip/video2/1/new/crocodile_dundee_1986_2xukreng_subeng_bdrip_1080p_hurtom_21768/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Крокодил Данді" tvg-logo="https://images.kinorium.com/movie/poster/84843/w1500_52889719.jpg", Крокодил Данді 2
+https://ashdi.vip/video2/1/new/crocodile_dundee_ii_1988_ukreng_subeng_bdrip_1080p_hurtom_21767/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Крокодил Данді" tvg-logo="https://images.kinorium.com/movie/poster/188057/w1500_52909703.jpg", Крокодил Данді у Лос-Анджелесі
+https://ashdi.vip/video2/1/films/crocodile_dundee_in_los_angeles_2001_bdremux_1080p_ukr.eng_sub.eng_hurtom_69243/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2019-06/1561014666-1.jpg", Поліцейська академія
+https://ashdi.vip/video2/2/films/01._police_academy_1984_bdrip_1080p_h.265_3xukr_eng_hurtom_386/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2019-06/1561026239-1.jpg", Поліцейська академія 2: Перше завдання
+https://ashdi.vip/video2/2/films/02._police_academy_2._their_first_assignment_1985_bdrip_1080p_h.265_ukr_eng_hurtom_387/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://images.kinorium.com/movie/poster/84263/w1500_51757217.jpg", Поліцейська академія 3: Знову до навчання
+https://ashdi.vip/video2/2/films/03._police_academy_3._back_in_training_1986_bdrip_1080r_h.265_ukr_eng_hurtom_388/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2024-08/poliaka4.jpg", Поліцейська академія 4: Квартальна охорона порядку
+https://ashdi.vip/video2/1/films/04._police_academy_4._citizens_on_patrol_1987_bdrip_1080p_h.265_ukr_eng_hurtom_389/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2024-08/polic5.jpg", Поліцейська академія 5: Операція Маямі-Біч 
+https://ashdi.vip/video2/1/films/05._police_academy_5._assignment__miami_beach_1988_bdrip_1080p_h.265_ukr_eng_hurtom_390/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2022-07/1657562313_cover6449482e1c2dcd3d.jpg", Поліцейська академія 6: Місто в облозі
+https://ashdi.vip/video2/1/films/06._police_academy_6._city_under_siege_1989_bdrip_1080r_h.265_ukr_eng_hurtom_391/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейська академія" tvg-logo="https://uakino.me/uploads/posts/2024-08/polik7.jpg", Поліцейська академія 7: В Москві
+https://ashdi.vip/video2/1/films/07._police_academy_7._mission_to_moscow_1994_bdrip_1080r_h.265_ukr_eng_hutrom_392/hls/1080/BqiXjXSRke1CmAg=/index.m3u8
+
+#EXTINF:-1 group-title="Гарячі голови" tvg-logo="https://images.kinorium.com/movie/poster/93224/w1500_53508967.jpg", Гарячі голови
+https://ashdi.vip/video2/1/new4/hot_shots_1991_bdrip_1080p2xukrengsub_ukrenghurtom__12502/hls/1080/BqiXjXSRke1CmAg=/index.m3u8
+#EXTINF:-1 group-title="Гарячі голови" tvg-logo="https://images.kinorium.com/movie/poster/97647/w1500_3205066.jpg", Гарячі голови 2
+https://ashdi.vip/video2/1/new4/hot_shots_part_two_1993bdrip_1080p_2xukrengsub_ukr_enghurtom_12683/hls/1080/BqiXjXSRke1CmAg=/index.m3u8
+
+#EXTINF:-1 group-title="Заручниця" tvg-logo="https://images.kinorium.com/movie/poster/405287/w1500_51808976.jpg", Заручниця
+https://ashdi.vip/video2/1/new4/taken_2008_bdremux_1080p_ukreng__sub_ukreng_hurtom_5904/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Заручниця" tvg-logo="https://images.kinorium.com/movie/poster/478233/w1500_2979503.jpg", Заручниця 2
+https://ashdi.vip/video2/1/new4/taken_2_extended_cut_2012_bdremux_1080p_2xukreng__sub_eng_hurtom_5905/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Заручниця" tvg-logo="https://images.kinorium.com/movie/poster/669391/w1500_51784889.jpg", Заручниця 3
+https://ashdi.vip/video2/1/new4/taken_3_extended_cut_2014_bdremux_1080p_ukreng__sub_ukreng_hurtom_5906/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/65698e60483f8.jpg", Чужий
+https://ashdi.vip/video2/2/films/chuzh_1979_3277/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://image.tmdb.org/t/p/original/sdqP5tJArASAPDrAAJw4vF2K5Sq.jpg", Чужі
+https://ashdi.vip/video2/2/films/aliens_1986_bdremux_1080p_ukr.eng_czkava_deya_95575/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://image.tmdb.org/t/p/original/zt8tLAcjfhuDzHRxyu3No0XdDNw.jpg", Чужий 3
+https://ashdi.vip/video2/1/films/alien_3_1992_bdremux_1080p_ukr.eng_czkava_deya_110436/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://ua-images.kinorium.com/movie/1080/107419.jpg", Чужий 4: Воскресiння
+https://ashdi.vip/video2/1/films/chuzhij_4._voskresnnya_3361/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/6569601eafd82.jpg", Чужий: Заповіт
+https://ashdi.vip/video2/2/new4/alien._covenant_2017_bdrip_1080p_h.265_ukr_eng_hurtom_8665/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/6830251bd5a88.jpg", Чужий: Ромул
+https://ashdi.vip/video2/2/new/alien.romulus.2024.1080p.amzn.webdl.ddp5.1.atmos.h.264fluxrgb_146544/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Падіння..." tvg-logo="https://image.tmdb.org/t/p/original/i0fa72ArmRyoQuo9MZaaqA9lH9r.jpg", Падіння Олімпу
+https://ashdi.vip/video2/1/new4/olympus_has_fallen_2013_bdrip_1080p_ukrenghurtom_7469/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Падіння..." tvg-logo="https://i.kinobaza.com.ua/w2000/625934a0652d8.jpg", Падіння Лондону
+https://ashdi.vip/video2/1/new4/london_has_fallen_2016_bdrip_1080p_h.265_ukr_eng_hurtom_13475/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Падіння..." tvg-logo="https://i.kinobaza.com.ua/w2000/65697abfb932e.jpg", Падіння янгола
+https://ashdi.vip/video2/1/films/padnnya_angela_379/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Хижак" tvg-logo="https://images.kinorium.com/movie/poster/86026/w1500_51795988.jpg", Хіжак
+https://ashdi.vip/video2/2/new4/predator_1987_2xukreng_sub.ukreng_bdrip_1080p_hurtom__hdclub_4462/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Хижак" tvg-logo="https://images.kinorium.com/movie/poster/91802/w1500_51809008.jpg", Хижак 2
+https://ashdi.vip/video2/1/new3/predator_2_1990_bdremux_1080p_2xukreng__sub_eng_hurtom_14027/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Хижак" tvg-logo="https://images.kinorium.com/movie/poster/484082/w1500_2985327.jpg", Хижаки
+https://ashdi.vip/video2/1/new4/predators_2010_4663/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/65696a205bab0.jpg", Форсаж
+https://ashdi.vip/video2/2/films/forsazh_1_975/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/656969eae872f.jpg", Подвійний Форсаж
+https://ashdi.vip/video2/2/films/forsazh_2_976/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://images.kinorium.com/movie/poster/349636/w1500_51489026.jpg", Потрійний форсаж: Токійський дрифт
+https://ashdi.vip/video2/2/films/forsazh_3_977/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/65696a1bbd038.jpg", Форсаж 4
+https://ashdi.vip/video2/2/films/forsazh_4_979/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/65696a2bea3cf.jpg", Форсаж 5: Пограбування в Ріо
+https://ashdi.vip/video2/2/films/forsazh_5_1449/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://image.tmdb.org/t/p/original/fcokEvtpsr7kUN4CoGHCwc369lV.jpg", Форсаж 6
+https://ashdi.vip/video2/2/films/forsazh_6_1512/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://image.tmdb.org/t/p/original/oJXaQ0PeD0XXoQZ3ZpMdgFR3UmS.jpg", Форсаж 7
+https://ashdi.vip/video2/2/films/forsazh_7_1466/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://image.tmdb.org/t/p/original/30J8UIO4zjXEz4uPCk8CQ95le3o.jpg", Форсаж 8
+https://ashdi.vip/video2/2/films/forsazh_8_1467/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/65697aed88f83.jpg", Форсаж: Гоббс та Шоу
+https://ashdi.vip/video2/2/films/gobs__shou_358/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://i.kinobaza.com.ua/w2000/63faa228784ce.jpg", Форсаж 9: Нестримна сага
+https://ashdi.vip/video2/2/films/forsazh_f9_2021_webdl_1080p_ukr_eng_hurtom_48059/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Форсаж" tvg-logo="https://s10.hdvbua.pro/media1/content/stream/films/fast_x_2023_bdrip_1080p_91415/hls/1080/index.m3u8", Форсаж Х
+https://calypso.tortuga.tw/content/stream/films/fast_x_2023_bdrip_1080p_91415/hls/1080/index.m3u8
+
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/mXBSz479EQaEH0LIqRkkg1KOP5p.jpg", Снайпер
+https://ashdi.vip/video2/1/films/sniper_1993_3xukreng_bdripavc_hurtom_124183/hls/720/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://i.kinobaza.com.ua/w2000/682ea7dce31db.jpg", Снайпер 2
+https://ashdi.vip/video2/1/new3/sniper_2_2002_ukr.ac3_5.1_eng_dvdrip_hurtom_by_oles_14683/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://ua-images.kinorium.com/movie/1080/313685.jpg", Снайпер 3
+https://ashdi.vip/video2/1/new3/sniper_3_2004_ukr.ac3_5.1_eng_dvdrip_hurtom_by_oles_14684/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://i.kinobaza.com.ua/w2000/682eb375e9c63.jpg", Снайпер 4: Перезавантаження
+https://ashdi.vip/video2/1/new3/sniper._reloaded_2011_ukr.ac3_5.1_eng_bdrip_hurtom_14685/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/jXwLfCXqTLfI6Zb1q37o91WkrEa.jpg", Снайпер 5: Спадок
+https://ashdi.vip/video2/1/films/sniper_5._legacy_2014_ukreng_sub.ukreng_webdl_1080p_hurtom_128056/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/byXXsml8SzYxqlbNYWNerVRjm38.jpg", Снайпер 6: Воїн-привид
+https://ashdi.vip/video2/2/new/sniper._ghost_shooter_2016_webdlripavc_ukr_eng_hurtom_138601/hls/720/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/pfs9qIIm9vSDtXt1WawBRFTHtIK.jpg", Снайпер 7: Бездоганне вбивство
+https://ashdi.vip/video2/1/films/sniper._ultimate_kill_2017_bdripavc_128057/hls/720/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/oOMp5YwqvDJuXUv79Tr6GgAdYdh.jpg", Снайпер 8: Кінець Асасіна
+https://ashdi.vip/video2/1/new2/brooklyn.ninenine_s5/sniper._assassins_end_2020_eng_sub.ukreng_dvdripavc_hurtom_23995/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Снайпер" tvg-logo="https://image.tmdb.org/t/p/original/oOMp5YwqvDJuXUv79Tr6GgAdYdh.jpg", Американський снайпер
+https://ashdi.vip/video2/2/new4/american_sniper_2014_bdrip_1080p_ukr_eng_hurtom_7197/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Робокоп" tvg-logo="https://image.tmdb.org/t/p/original/tViK7esfm2nfmmH7qnYjy9SU5bh.jpg", Робокоп
+https://ashdi.vip/video2/1/films/robocop_1_extended_dc_1987_ukreng_sub.eng_bdrip_1080p_hurtom_1490/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Робокоп" tvg-logo="https://image.tmdb.org/t/p/original/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg", Робокоп 2
+https://ashdi.vip/video2/1/films/robocop_2_1990_ukreng_sub.eng_bdrip_1080p_hurtom_1491/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Робокоп" tvg-logo="https://image.tmdb.org/t/p/original/gKfyPSzJ47NSszO9Jzw8XIVNTKN.jpg", Робокоп 3
+https://ashdi.vip/video2/1/films/robocop_3_1993_ukreng_sub.eng_bdrip_1080p_hurtom_1492/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e5271b55.jpg", Мумія
+https://ashdi.vip/video2/2/films/1._the_mummy_1999_hddvdrip_1080p_h.265_2xukr_eng_3407/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e7354e97.jpg", Мумія повертається
+https://calypso.tortuga.tw/content/stream/films/the.mummy.returns.2001.hddvdrip.1080p.h.265_9112/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e8f7b83a.jpg", Мумія: Гробниця Імператора Драконів
+https://ashdi.vip/video2/2/films/3._the_mummy._tomb_of_the_dragon_emperor_2008_bdrip_1080p_h.265_ukr_eng_3409/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/65695c24c79d0.jpg", Мумія (2017)
+https://ashdi.vip/video2/2/new4/the_mummy_2017_bdrip_1080p_ukr_eng_hurtom_4858/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Похмілля у Вегасі" tvg-logo="https://image.tmdb.org/t/p/original/7WPZU5NUWZEOjuhprywbpo7VTPy.jpg", Похмілля у Вегасі
+https://ashdi.vip/video2/2/films/1.2_the_hangover_2009_unrated_bdrip_1080p_h.265_ukr_eng_hurtom_405/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Похмілля у Вегасі" tvg-logo="https://i.kinobaza.com.ua/w2000/637e17d5a366b.jpg", Похмілля 2: Із Вегаса в Бангкок
+https://ashdi.vip/video2/2/films/2._the_hangover._part_ii_2011_bdrip_1080p_h.265_ukr_eng_hurtom_406/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Похмілля у Вегасі" tvg-logo="https://i.kinobaza.com.ua/w2000/656961fd64ea2.jpg", Похмілля 3
+https://ashdi.vip/video2/2/films/3._the_hangover._part_iii_2013_bdrip_1080p_h.265_ukr_eng_hurtom_407/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Голий пістолет" tvg-logo="https://i.kinobaza.com.ua/w2000/65697d8f6f824.jpg", Голий пістолет
+https://ashdi.vip/video2/2/new4/naked_gun._from_the_files_of_police_squad_1988_bdremux_ukr_engsub_2eng_fre_porhurtom_6685/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голий пістолет" tvg-logo="https://i.kinobaza.com.ua/w2000/65697d898842f.jpg", Голий пістолет ½
+https://ashdi.vip/video2/1/new3/naked_gun_2_1_2._the_smell_of_fear_1991_bdremux_1080p_ukr_engsub_2eng_hurtom_15122/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Голий пістолет" tvg-logo="https://i.kinobaza.com.ua/w2000/65697d8d6ee57.jpg", Голий пістолет 33 1/3
+https://ashdi.vip/video2/1/new4/naked.gun.33.1.3.the.final.insult.1994.bdremux_ukrengsub_2enghurtom_6686/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d11403bd.jpg", Люди в чорному
+https://ashdi.vip/video2/2/films/01_men_in_black_1997_mastered_in_4k_bdrip_1080p_h.265_3xukr_eng_hurtom_102753/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://image.tmdb.org/t/p/original/i8qoCJchx2lUSoWr5obFzs1RcFe.jpg", Люди в чорному 2
+https://ashdi.vip/video2/2/films/02_men_in_black_2_2002_bdrip_1080p_h.265_3xukr_eng_hurtom_102754/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d60ba946.jpg", Люди в чорному 3
+https://ashdi.vip/video2/2/films/03_men_in_black_3_2012_bdrip_1080p_h.265_ukr_eng_hurtom_102755/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Погані хлопці" tvg-logo="https://i.kinobaza.com.ua/w2000/65696e26c00f1.jpg", Погані хлопці
+https://ashdi.vip/video2/2/new4/bad_boys_1995_bdremux_1080p_remastered_3xukreng__sub_eng_hurtom_9520/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Погані хлопці" tvg-logo="https://i.kinobaza.com.ua/w2000/65696c83112d5.jpg", Погані хлопці 2
+https://ashdi.vip/video2/2/new4/bad_boys_2_2003_bdremux_1080p_remastered_2xukreng__sub_eng_hurtom_10131/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Погані хлопці" tvg-logo="https://i.kinobaza.com.ua/w2000/63e77eb1c11ee.jpg", Погані хлопці назавжди
+https://ashdi.vip/video2/2/new3/bad_boys_for_life_2020_webdl_1080p_ukr_eng_15125/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Погані хлопці" tvg-logo="https://image.tmdb.org/t/p/original/7TazqZ0cxN5zZcDUJgPooyyWg3c.jpg", Погані хлопці: Все або нічого
+https://ashdi.vip/video2/2/films/bad.boys.ride.or.die.2024.1080p.webdl.dd5.1.h.264alleyesonmergb_134818/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Смертельна зброя" tvg-logo="https://i.kinobaza.com.ua/w2000/6569627a40f15.jpg", Смертельна зброя
+https://ashdi.vip/video2/2/films/smertelna_zbroya_2306/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Смертельна зброя" tvg-logo="https://i.kinobaza.com.ua/w2000/6569627ec9252.jpg", Смертельна зброя 2
+https://ashdi.vip/video2/1/films/smertelna_zbroya_2_2307/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Смертельна зброя" tvg-logo="https://i.kinobaza.com.ua/w2000/65696283df6af.jpg", Смертельна зброя 3
+https://ashdi.vip/video2/1/films/smertelna_zbroya_3_2308/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Смертельна зброя" tvg-logo="https://i.kinobaza.com.ua/w2000/65696288cb86a.jpg", Смертельна зброя 4
+https://ashdi.vip/video2/1/films/smertelna_zbroya_4_2309/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="G.I. Joe" tvg-logo="https://i.kinobaza.com.ua/w2000/62594ca711bd6.jpg", G.I. Joe: Атака Кобри
+https://ashdi.vip/video2/1/films/kidok_kobri_1887/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="G.I. Joe" tvg-logo="https://i.kinobaza.com.ua/w2000/62594cda675d7.jpg", G.I. Joe: Атака Кобри 2
+https://ashdi.vip/video2/1/films/ataka_kobri_2013/g.i.joe.retaliation.extended.cut.2013..bdrip1080p.ukr.by.demrandir_2067/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Поліцейський із Беверлі Хіллз" tvg-logo="https://i.kinobaza.com.ua/w2000/65699371c79e7.jpg", Поліцейський із Беверлі Хіллз
+https://ashdi.vip/video2/1/new4/beverly_hills_cop_1984_bdrip_1080p_ukr.eng_sub.eng_hurtom_11453/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейський із Беверлі Хіллз" tvg-logo="https://i.kinobaza.com.ua/w2000/6569a6820215d.jpg", Поліцейський з Беверлі Хіллз 2
+https://ashdi.vip/video2/1/new4/beverly_hills_cop_ii_1987_bdrip_1080p_ukr.eng_sub.eng_hurtom_11454/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Поліцейський із Беверлі Хіллз" tvg-logo="https://i.kinobaza.com.ua/w2000/65697608a9534.jpg", Поліцейський з Беверлі Хіллз 3
+https://ashdi.vip/video2/1/new4/beverly_hills_cop_iii_1994_bdrip_1080p_ukr.eng_sub.eng_hurtom_11455/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Скажений Макс" tvg-logo="https://i.kinobaza.com.ua/w2000/656972dfac2ee.jpg", Скажений Макс
+https://ashdi.vip/video2/1/new2/mad.max.1979.bdrip.1080p.ukr.eng_14261/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Скажений Макс" tvg-logo="https://i.kinobaza.com.ua/w2000/656972ea8adce.jpg", Скажений Макс 2: Воїн Дороги
+https://ashdi.vip/video2/1/new2/mad.max.2.unrated.1981.bdrip.1080p.ukr.eng_14262/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Скажений Макс" tvg-logo="https://kinobaza.com.ua/titles/mad-max-beyond-thunderdome#posters_kinobaza-1", Скажений Макс 3: Під Куполом Грому
+https://ashdi.vip/video2/1/new2/mad_max_beyond_thunderdome_1985_ukreng_sub.eng_bdrip_1080p_hurtom_14260/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Скажений Макс" tvg-logo="https://i.kinobaza.com.ua/w2000/6569573f0011b.jpg", Шалений Макс 4: Дорога гніву 
+https://ashdi.vip/video2/2/new4/mad_max._fury_road_2015_bdrip_1080p_ukr_eng_hurtom_4132/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Скажений Макс" tvg-logo="https://i.kinobaza.com.ua/w2000/666e6ab28eaec.jpg", Фуріоза: Шалений Макс. Сага
+https://ashdi.vip/video2/2/films/furiosa.a.mad.max.saga.1080p.webdl.eac3.atmos.h.264.ukr.eng_132114/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Дедпул" tvg-logo="https://i.kinobaza.com.ua/w2000/65eec0318bde5.jpg", Дедпул
+https://ashdi.vip/video2/2/films/dedpul_398/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Дедпул" tvg-logo="https://i.kinobaza.com.ua/w2000/65eec16dc70bf.jpg", Дедпул 2
+https://ashdi.vip/video2/2/films/dedpul_2_409/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Дедпул" tvg-logo="https://i.kinobaza.com.ua/w2000/683017c5889df.jpg", Дедпул і Росомаха
+https://ashdi.vip/video2/2/new/deadpool.and.wolverine.2024.ua_144553/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="", Люди Ікс
+https://ashdi.vip/video1/2/films/lyudix_484/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="", Люди Ікс 2
+https://ashdi.vip/video1/2/films/lyudix_2_485/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="https://ua-images.kinorium.com/movie/1080/294044.jpg", Люди Ікс 3: Остання битва
+https://ashdi.vip/video2/2/films/lyudix_3_486/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="https://i.kinobaza.com.ua/w2000/6832f063dcbe8.jpg", Люди Ікс: Дні минулого майбутнього
+https://ashdi.vip/video2/2/films/lyudix_7_dn_minulogo_majbutnogo_490/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="https://i.kinobaza.com.ua/w2000/6832ed05b8749.jpg", Росомаха: Початок
+https://ashdi.vip/video2/2/films/lyudix_4_487/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="https://images.kinorium.com/movie/poster/485335/w1500_2986533.jpg", Росомаха 2: Безсмертний
+https://ashdi.vip/video2/2/films/lyudix_6_rossomaxa_2_489/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Люди Ікс" tvg-logo="https://ua-images.kinorium.com/movie/1080/743064.jpg", Лоґан: Росомаха
+https://ashdi.vip/video2/2/films/logan_492/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Лара Крофт" tvg-logo="https://kinobaza.com.ua/titles/lara-croft-tomb-raider/posters#posters_tmdb-3", Лара Крофт: Розкрадачка гробниць
+https://ashdi.vip/video2/2/films/rozkradachka_grobnicz_1057/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Лара Крофт" tvg-logo="https://i.kinobaza.com.ua/w2000/65699396a6133.jpg", Лара Крофт: Розкрадачка гробниць 2 Колиска життя
+https://ashdi.vip/video2/2/films/rozkradachka_grobnicz_2_1058/hls/480/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Лара Крофт" tvg-logo="https://image.tmdb.org/t/p/original/dQiSAfKuJQJdZTIUjusL1autFyX.jpg", Розкрадачка гробниць: Лара Крофт
+
+#EXTINF:-1 group-title="Скарб нації" tvg-logo="https://image.tmdb.org/t/p/original/1hq4LifqYcLUTuhIMJxTHHAEmDY.jpg", Скарб нації
+https://ashdi.vip/video2/2/films/national_treasure_2004_bdrip_1080p_3xukr_eng_hurtom_165669/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+#EXTINF:-1 group-title="Скарб нації" tvg-logo="https://i.kinobaza.com.ua/w2000/65695514d8773.jpg", Скарб нації: Книга таємниць
+https://ashdi.vip/video2/2/films/national_treasure_book_of_secrets_2007_bdrip_1080p_74303/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
+
+#EXTINF:-1 group-title="Франшизи" tvg-logo="", 
