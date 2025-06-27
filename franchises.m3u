@@ -140,13 +140,14 @@ https://zetvideo.net/content/stream/films/the_final_destination_2009_bdrip_1080p
 https://zetvideo.net/content/stream/films/final_destination_5_2011_bdrip_1080p_h.265_ukr_eng_hurtom_15956/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Пункт призначення" tvg-logo="https://i.kinobaza.com.ua/w2000/67e2cc12c32d0.jpg", Пункт призначення 6
 https://zetvideo.net/content/stream/films/final.destination.bloodlines.2025.ua.dub_18102/hls/1080/index.m3u8
-#
+
+# Веном
 #EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/656960d0df252.jpg", Веном
-https://ashdi.vip/video2/3/films/venom_513/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/venom.2018.bdrip.1080p_1646/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/63faa70975b26.jpg", Веном 2: Карнаж
-https://ashdi.vip/video2/3/films/venom_let_there_be_carnage_2021_webdl_1080p_ukr_eng_hurtom_50313/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
-#EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/66e820d33eb06.jpg", Веном: Останній танець
-https://ashdi.vip/video2/3/new/venom.the.last.dance.2024.1080p.amzn.webdl.ddp5.1.h.264.ultra.multivenomrgb_154745/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/chest/venom_let_there_be_carnage_2021_bdrip_1080p_71271/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Веном" tvg-logo="https://i.kinobaza.com.ua/w2000/66e820d33eb06.jpg", Веном 3: Останній танок
+https://calypso.tortuga.tw/content/stream/films/venom.the.last.dance.2024.webdl.1080p.ledoyen.dub_104901/hls/1080/index.m3u8
 
 #
 #EXTINF:-1 group-title="Той, що біжить лабіринтом" tvg-logo="https://i.kinobaza.com.ua/w2000/65695708df11f.jpg", Той, що біжить лабіринтом
