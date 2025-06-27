@@ -297,10 +297,11 @@ https://calypso.tortuga.tw/content/stream/films/harry_potter_and_the_deathly_hal
 #EXTINF:-1 group-title="Гаррі Поттер" tvg-logo="https://images.kinorium.com/movie/poster/442655/w1500_2943060.jpg", Гаррі Поттер та Смертельні Реліквії: Частина 2
 https://calypso.tortuga.tw/content/stream/films/harry_potter_and_the_deathly_hallows_part_2_2011_bdrip_1080p_h.265_ukr_eng_hurtom_6172/hls/1080/index.m3u8
 
+# Kingsman
 #EXTINF:-1 group-title="Kingsman" tvg-logo="https://uakino.me/uploads/posts/2017-11/1509800076_dnfgfl3mbzmbmihtdaagwkua7j1.jpg", Kingsman: Таємна служба
-https://ashdi.vip/video22/3/films/kngsman_1_453/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/kingsman.the.secret.service.2014.bdrip.1080p_5370/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Kingsman" tvg-logo="https://images.kinorium.com/movie/poster/1472179/w1500_50516228.jpg", Kingsman: Золоте Кільце
-https://ashdi.vip/video22/3/films/kngsman_2_452/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/kingsman.the.golden.circle.2017.bdrip.1080p_5376/hls/1080/index.m3u8
 
 #EXTINF:-1 group-title="Зоряні війни" tvg-logo="https://images.kinorium.com/movie/poster/109444/w1500_2705666.jpg", Зоряні війни: Епізод I - Прихована загроза
 https://ashdi.vip/video2/2/films/zoryan_vjni_epzod_1_420/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
