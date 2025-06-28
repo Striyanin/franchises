@@ -223,17 +223,17 @@ https://calypso.tortuga.tw/content/stream/films/kong.skull.island.2017.bdrip.108
 
 # Парк Юрського періоду
 #EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/97782/w1500_52138433.jpg", Парк Юрського періоду
-https://s10.hdvbua.pro/media1/content/stream/films/jurassic_park_1993_bdrip_1080p_h.265_89319/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/108304/w1500_52138327.jpg", Парк Юрського періоду 2. Загублений світ
-https://s10.hdvbua.pro/media/content/stream/new/jurassic.park.2.lost.world.1997.bdremux.1080p_52850/hls/1080/index.m3u8
+https://calypso.tortuga.tw/content/stream/new/jurassic.park.1993.bdremux.1080p_52848/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/108304/w1500_52138327.jpg", Парк Юрського періоду 2: Загублений світ
+https://calypso.tortuga.tw/content/stream/new/jurassic.park.2.lost.world.1997.bdremux.1080p_52850/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/136869/w1500_52526818.jpg", Парк Юрського періоду 3
-https://s10.hdvbua.pro/media1/content/stream/new/jurassic.park.3.2001.bdremux.1080p_52912/hls/1080/index.m3u8
+https://calypso.tortuga.tw/content/stream/new/jurassic.park.3.2001.bdremux.1080p_52912/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://images.kinorium.com/movie/poster/288832/w1500_51796000.jpg", Світ Юрського періоду
-https://s10.hdvbua.pro/media/content/stream/films/jurassic.world.2015.bdrip.1080p.h.265_1863/hls/1080/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/jurassic.world.2015.bdrip.1080p.h.265_1863/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://uakino.me/uploads/posts/2018-06/1528553753_1.jpg", Світ Юрського періоду 2
-https://s10.hdvbua.pro/media/content/stream/films/jurassic_world_fallen_kingdom_2018_bdrip_1080p_h.265_ukr_eng_1929/hls/1080/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/jurassic_world_fallen_kingdom_2018_bdrip_1080p_h.265_ukr_eng_1929/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Парк Юрського періоду" tvg-logo="https://uakino.me/uploads/posts/2022-06/165511340477_jurassic_world_dominion.jpg", Світ Юрського періоду 3: Домініон
-https://s10.hdvbua.pro/media1/content/stream/films/jurassic_world_dominion_extended_cut_2022_bdrip_1080p_80672/hls/1080/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/jurassic_world_dominion_extended_cut_2022_bdrip_1080p_80672/hls/1080/index.m3u8
 
 # Володар перснів
 #EXTINF:-1 group-title="Володар перснів" tvg-logo="https://images.kinorium.com/movie/poster/109309/w1500_51572003.jpg", Володар перснів: Хранителі персня
