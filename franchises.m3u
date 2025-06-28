@@ -473,12 +473,15 @@ https://calypso.tortuga.tw/content/stream/new/naked_gun_2.12_the_smell_of_fear_1
 #EXTINF:-1 group-title="Голий пістолет" tvg-logo="https://i.kinobaza.com.ua/w2000/65697d8d6ee57.jpg", Голий пістолет 3: Остання образа
 https://calypso.tortuga.tw/content/stream/new/naked_gun_33.13_the_final_insult_1994_bdrip_1080p_h.265_52917/hls/1080/index.m3u8
 
+# Люди в чорному
 #EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d11403bd.jpg", Люди в чорному
-https://ashdi.vip/video2/2/films/01_men_in_black_1997_mastered_in_4k_bdrip_1080p_h.265_3xukr_eng_hurtom_102753/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/chest/men_in_black_1997_webdl_1080p_58016/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://image.tmdb.org/t/p/original/i8qoCJchx2lUSoWr5obFzs1RcFe.jpg", Люди в чорному 2
-https://ashdi.vip/video2/2/films/02_men_in_black_2_2002_bdrip_1080p_h.265_3xukr_eng_hurtom_102754/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/chest/men_in_black_2_2002_webdl_1080p_58017/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://i.kinobaza.com.ua/w2000/65695d60ba946.jpg", Люди в чорному 3
-https://ashdi.vip/video2/2/films/03_men_in_black_3_2012_bdrip_1080p_h.265_ukr_eng_hurtom_102755/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/men.in.black.3.2012.bdrip.1080p.h.265_10855/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Люди в чорному" tvg-logo="https://images.kinorium.com/movie/poster/644422/w1500_54746519.jpg", Люди в чорному: Інтернешнл
+https://calypso.tortuga.tw/content/stream/films/men_in_black_international_2019_ukreng_sub.ukreng_bdrip_1080p_hurtom_1107/hls/1080/index.m3u8
 
 #EXTINF:-1 group-title="Погані хлопці" tvg-logo="https://i.kinobaza.com.ua/w2000/65696e26c00f1.jpg", Погані хлопці
 https://ashdi.vip/video2/2/new4/bad_boys_1995_bdremux_1080p_remastered_3xukreng__sub_eng_hurtom_9520/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
