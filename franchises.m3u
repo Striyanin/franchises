@@ -361,18 +361,19 @@ https://calypso.tortuga.tw/content/stream/films/taken.2.2012.bdrip.1080p.uec_301
 #EXTINF:-1 group-title="Заручниця" tvg-logo="https://images.kinorium.com/movie/poster/669391/w1500_51784889.jpg", Заручниця 3
 https://calypso.tortuga.tw/content/stream/films/taken.3.2014.bdrip.1080p.ec_30105/hls/1080/index.m3u8
 
+# Чужий
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/65698e60483f8.jpg", Чужий
-https://ashdi.vip/video2/2/films/chuzh_1979_3277/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/alien.1979.bdrip.1080p.alien_16950/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://image.tmdb.org/t/p/original/sdqP5tJArASAPDrAAJw4vF2K5Sq.jpg", Чужі
-https://ashdi.vip/video2/2/films/aliens_1986_bdremux_1080p_ukr.eng_czkava_deya_95575/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/aliens.1986.bdrip.1080p.dc_21343/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://image.tmdb.org/t/p/original/zt8tLAcjfhuDzHRxyu3No0XdDNw.jpg", Чужий 3
-https://ashdi.vip/video2/1/films/alien_3_1992_bdremux_1080p_ukr.eng_czkava_deya_110436/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://s10.hdvbua.pro/media1/content/stream/films/alien_3_1992_special_edition_bdrip_1080p_h.265_75008/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://ua-images.kinorium.com/movie/1080/107419.jpg", Чужий 4: Воскресiння
-https://ashdi.vip/video2/1/films/chuzhij_4._voskresnnya_3361/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://s10.hdvbua.pro/media/content/stream/films/alien_resurrection_1997_special_edition_bdrip_1080p_h.265_75010/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/6569601eafd82.jpg", Чужий: Заповіт
-https://ashdi.vip/video2/2/new4/alien._covenant_2017_bdrip_1080p_h.265_ukr_eng_hurtom_8665/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://s10.hdvbua.pro/media1/content/stream/films/alien_covenant_2017_ukreng_sub.ukreng_bdrip_1080p_hurtom_5643/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/6830251bd5a88.jpg", Чужий: Ромул
-https://ashdi.vip/video2/2/new/alien.romulus.2024.1080p.amzn.webdl.ddp5.1.atmos.h.264fluxrgb_146544/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/alien.romulus.2024.webdl.1080p.postmodern.dub_102124/hls/1080/index.m3u8
 
 #EXTINF:-1 group-title="Падіння..." tvg-logo="https://image.tmdb.org/t/p/original/i0fa72ArmRyoQuo9MZaaqA9lH9r.jpg", Падіння Олімпу
 https://ashdi.vip/video2/1/new4/olympus_has_fallen_2013_bdrip_1080p_ukrenghurtom_7469/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
