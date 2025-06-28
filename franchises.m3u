@@ -447,14 +447,16 @@ https://calypso.tortuga.tw/content/stream/films/robocop_2_1990_bdrip_1080p_76527
 #EXTINF:-1 group-title="Робокоп" tvg-logo="https://image.tmdb.org/t/p/original/gKfyPSzJ47NSszO9Jzw8XIVNTKN.jpg", Робокоп 3
 https://calypso.tortuga.tw/content/stream/films/robocop_3_1993_bdrip_1080p_76528/hls/1080/index.m3u8
 
+# Мумія
 #EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e5271b55.jpg", Мумія
-https://ashdi.vip/video2/2/films/1._the_mummy_1999_hddvdrip_1080p_h.265_2xukr_eng_3407/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/the_mummy_1999_hddvdrip_1080p_h.265_9110/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e7354e97.jpg", Мумія повертається
 https://calypso.tortuga.tw/content/stream/films/the.mummy.returns.2001.hddvdrip.1080p.h.265_9112/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/62593e8f7b83a.jpg", Мумія: Гробниця Імператора Драконів
-https://ashdi.vip/video2/2/films/3._the_mummy._tomb_of_the_dragon_emperor_2008_bdrip_1080p_h.265_ukr_eng_3409/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/chest/the_mummy_tomb_of_the_dragon_emperor_2008_bdrip_1080p_h.265_73793/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Мумія" tvg-logo="https://i.kinobaza.com.ua/w2000/65695c24c79d0.jpg", Мумія (2017)
-https://ashdi.vip/video2/2/new4/the_mummy_2017_bdrip_1080p_ukr_eng_hurtom_4858/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/the.mummy.2017.bdrip.1080p_6343/hls/1080/index.m3u8
+
 
 #EXTINF:-1 group-title="Похмілля у Вегасі" tvg-logo="https://image.tmdb.org/t/p/original/7WPZU5NUWZEOjuhprywbpo7VTPy.jpg", Похмілля у Вегасі
 https://ashdi.vip/video2/2/films/1.2_the_hangover_2009_unrated_bdrip_1080p_h.265_ukr_eng_hurtom_405/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
