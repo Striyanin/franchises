@@ -375,12 +375,13 @@ https://s10.hdvbua.pro/media1/content/stream/films/alien_covenant_2017_ukreng_su
 #EXTINF:-1 group-title="Чужий" tvg-logo="https://i.kinobaza.com.ua/w2000/6830251bd5a88.jpg", Чужий: Ромул
 https://calypso.tortuga.tw/content/stream/films/alien.romulus.2024.webdl.1080p.postmodern.dub_102124/hls/1080/index.m3u8
 
+# Падіння...
 #EXTINF:-1 group-title="Падіння..." tvg-logo="https://image.tmdb.org/t/p/original/i0fa72ArmRyoQuo9MZaaqA9lH9r.jpg", Падіння Олімпу
-https://ashdi.vip/video2/1/new4/olympus_has_fallen_2013_bdrip_1080p_ukrenghurtom_7469/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/olympus_has_fallen_2013_bdrip_1080p_ukrenghurtom_6655/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Падіння..." tvg-logo="https://i.kinobaza.com.ua/w2000/625934a0652d8.jpg", Падіння Лондону
-https://ashdi.vip/video2/1/new4/london_has_fallen_2016_bdrip_1080p_h.265_ukr_eng_hurtom_13475/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://calypso.tortuga.tw/content/stream/films/london_has_fallen_2016_bdrip_1080p_21761/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Падіння..." tvg-logo="https://i.kinobaza.com.ua/w2000/65697abfb932e.jpg", Падіння янгола
-https://ashdi.vip/video2/1/films/padnnya_angela_379/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://s10.hdvbua.pro/media/content/stream/films/angel_has_fallen_2019_us_transfer_bdrip_1080p_h.265_75984/hls/1080/index.m3u8
 
 #EXTINF:-1 group-title="Хижак" tvg-logo="https://images.kinorium.com/movie/poster/86026/w1500_51795988.jpg", Хіжак
 https://ashdi.vip/video2/2/new4/predator_1987_2xukreng_sub.ukreng_bdrip_1080p_hurtom__hdclub_4462/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
